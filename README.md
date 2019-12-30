@@ -1,4 +1,4 @@
 # projecteuler
-Solutions for project euler problems
+- Solutions for project euler problems
 
-Most of the solutions are made by brute force, optimization needed.
+- Most of the solutions are made by brute force, optimization needed.
