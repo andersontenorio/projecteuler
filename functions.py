@@ -10,5 +10,12 @@ def is_prime(n):
     else: 
         is_prime = False
     return is_prime
+
+def is_palindromic(n):
+    sn = str(n)
+    s1 = sn
+    s2 = sn[::-1]
+    return (s1 == s2)
+
     
         
